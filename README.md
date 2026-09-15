@@ -28,7 +28,7 @@ Este repositório é um projeto de portfólio que demonstra um fluxo de produç�
 ## 🤖 Prompts de Produção
 
 <details>
-<summary><b>Clique para ver o Prompt do Roteiro (ChatGPT)</b></summary>
+<summary><b>Clique para ver o Prompt do Roteiro (Gemini)</b></summary>
 
 ```text
 Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de finanças e geopolítica, cujo o nome é "A Nova Ordem de Compra: A diplomacia por trás do sobe e desce da bolsa", com o público-alvo de entusiastas de economia, sociologia e política internacional.
